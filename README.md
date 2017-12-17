@@ -1,2 +1,5 @@
 # MultisensorRTOS
-skripsi multi-sensor ultrasonik dengan implementasi RTOS
+Multi-sensor ultrasonik dengan implementasi RTOS
+===========================================================
+ 
+
